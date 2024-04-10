@@ -1,0 +1,28 @@
+#dv {
+  font-size: 40px;
+}
+
+#ls {
+  font-style: italic;
+}
+
+.soldado {
+  border: 4px dashed black;
+  letter-spacing: 2px;
+}
+
+.apoyo {
+  text-align: center;
+}
+
+.nave {
+  text-transform: uppercase;
+}
+
+.imperio {
+  background-color: red;
+}
+
+.rebelde {
+  background-color: blue;
+}
